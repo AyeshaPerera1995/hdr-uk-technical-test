@@ -1,0 +1,13 @@
+AI Tool Used: ChatGPT
+
+Purpose of Use:
+AI was used as a design support tool during development of this technical test.
+
+Details:
+
+* Provided guidance on implementing pagination, search, and UI improvements.
+
+Notes:
+
+* All generated code was reviewed, tested, and understood before use.
+* Final implementation decisions and modifications were made independently.
