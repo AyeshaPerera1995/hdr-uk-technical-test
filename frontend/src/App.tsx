@@ -46,7 +46,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>HDR UK Dataset Explorer</h1>
+      <h1>HDR UK Dataset Explorer</h1><br></br>
 
       <input
         className="search"
