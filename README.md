@@ -1,4 +1,4 @@
-# HDR UK – Junior Full Stack Software Engineer Technical Test
+# HDR UK – Junior Full Stack Software Developer Technical Test
 
 ## Project Overview
 
