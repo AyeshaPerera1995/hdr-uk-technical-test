@@ -60,8 +60,8 @@ The application extracts and displays the following fields:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-link>
-cd <your-repo-name>
+git clone https://github.com/AyeshaPerera1995/hdr-uk-technical-test.git
+cd hdr-uk-technical-test
 ```
 
 ---
